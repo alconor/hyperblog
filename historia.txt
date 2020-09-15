@@ -1,0 +1,5 @@
+Hola Soy Alejandro
+Vivo en Panamá y estoy estud9ando en Platiz.
+Por ahora sigo el curso de Git
+
+SAludos!
