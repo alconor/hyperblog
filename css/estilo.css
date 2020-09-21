@@ -4,3 +4,33 @@ body
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#contenedor
+{
+    background: rgb(173, 173, 189);
+    color: rgb(143, 108, 38);
+    font-weight: bold;
+    margin: 0pc;
+    padding: 0.5em;
+    text-align: left;
+}
+
+#post1
+{
+    background: rgb(207, 207, 219);
+    color: rgb(32, 21, 187);
+    font-weight: bold;
+    margin: auto;
+    padding: 0.5mm;
+
+}
+
+#cabecera
+{
+    background: darkblue;
+    color: floralwhite;
+    font-weight: bold;
+    margin: auto;
+    padding: 0.5mm;
+
+}
